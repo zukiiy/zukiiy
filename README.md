@@ -33,38 +33,6 @@ Halo! I'm **Zukiiy** — just a chill person who loves exploring the internet, h
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zukiiy&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=D2D7E8&icon_color=7C8AE8&text_color=8B949E" alt="GitHub Stats" height="170"/>
-<img src="https://github-readme-streak-stats.herokuapp.com?user=zukiiy&theme=tokyonight&hide_border=true&background=0D1117&stroke=30363D&ring=7C8AE8&fire=D2D7E8&currStreakLabel=D2D7E8&sideLabels=8B949E&dates=555E68" alt="GitHub Streak" height="170"/>
-</div>
-
-<div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=zukiiy&bg_color=0D1117&color=7C8AE8&line=7C8AE8&point=D2D7E8&area=true&hide_border=true" alt="Contribution Graph" width="95%"/>
-</div>
-
----
-
-### 🏆 GitHub Trophies
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=zukiiy&theme=discord&no-bg=true&no-frame=true&column=7" alt="Trophies" width="100%"/>
-</div>
-
----
-
-### 🤝 Let's Connect
-
-<div align="center">
-
-[![TikTok](https://img.shields.io/badge/TikTok-@_dzzwkwk-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@_dzzwkwk)
-[![GitHub](https://img.shields.io/badge/GitHub-zukiiy-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/zukiiy)
-
-</div>
-
----
-
 <div align="center">
 
 <img src="https://komarev.com/ghpvc/?username=zukiiy&style=for-the-badge&color=7C8AE8&label=PROFILE+VIEWS" alt="Profile Views"/>
