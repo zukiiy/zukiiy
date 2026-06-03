@@ -14,29 +14,22 @@
 
 ### 👋 About Me
 
-Halo! I'm **Zukiiy** — a passionate creative soul who loves exploring technology, design, and everything in between. I enjoy building things that live on the internet, whether it's websites, apps, or fun little experiments. Always curious, always learning.
+Halo! I'm **Zukiiy** — just a chill person who loves exploring the internet, hanging out online, and trying new things. I'm not a developer, just someone who enjoys the digital world and creative stuff. Sometimes I mess around with GitHub for fun projects and cool profile tweaks.
 
-- 🌍 Based somewhere on this beautiful planet
-- 🎯 Currently exploring new ideas & side projects
-- 🎮 Gamer at heart, creator by choice
-- 📱 Find me on TikTok: [@_dzzwkwk](https://tiktok.com/@_dzzwkwk)
+- 🌍 Living life somewhere on this planet
+- 🎮 Gamer — always down for a good session
+- 🎵 Music lover — vibes 24/7
+- 📱 Catch me on TikTok: [@_dzzwkwk](https://tiktok.com/@_dzzwkwk)
+- 💡 Curious mind, not a coder — but always learning something new
 
 ---
 
-### 🛠️ Tech Stack
+### 😄 More About Me
 
-<div align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-
-</div>
+- 🧠 I'm here for fun, not for code reviews
+- 🎯 Just vibing and exploring cool stuff on GitHub
+- 🤝 Open to making new friends and connections
+- 🌙 Night owl energy — best ideas come at 2AM
 
 ---
 
@@ -61,16 +54,6 @@ Halo! I'm **Zukiiy** — a passionate creative soul who loves exploring technolo
 
 ---
 
-### 🎵 What I'm Vibing To
-
-<div align="center">
-
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/)
-
-</div>
-
----
-
 ### 🤝 Let's Connect
 
 <div align="center">
@@ -90,6 +73,6 @@ Halo! I'm **Zukiiy** — a passionate creative soul who loves exploring technolo
 
 <div align="center">
 
-<em>Thanks for visiting! ⭐ Feel free to explore my repos</em>
+<em>Thanks for stopping by! ✨ See you around</em>
 
 </div>
